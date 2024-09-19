@@ -1,29 +1,9 @@
-# Cosmetica
+# Fabric Example Mod
 
-![](https://img.shields.io/badge/minecraft-1.16.5--1.20.2-blue)
-![](https://sloc.xyz/github/Cosmetica-cc/Cosmetica)
+## Setup
 
-The all new, _blazingly fast_ cosmetic system to allow complete customisation of your player character, visible to anyone else using the mod!
+For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
 
-Contributing
-=================================
+## License
 
-If you have a feature suggestion, join our [discord server](https://discord.gg/aQh5SJEUBm) and chuck it in #feature-suggestions!
-
-Cosmetica is Open Source under the Apache 2.0 license. If you want to help out with the project, or there's something you want to see in the mod, feel free to open a pull request! (though I recommend checking with us before adding a new feature)
-
-Make sure you've signed the CLA before opening a pull request. https://cla-assistant.io/Cosmetica-cc/Cosmetica
-
-Credits
-=================================
-Mod:
-- Eyezah
-- Valoeghese
-- Many other contributors!
-
-Website:
-- Eyezah
-- Valoeghese
-
-Backend Server:
-- Eyezah
+This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
